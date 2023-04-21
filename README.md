@@ -6,4 +6,5 @@ this code is mine. please stop skidding my code to make low level gamepass namer
 **-list of things to do-**
 pip install os |
 pip install selenium |
-pip install random_word
+pip install random_word |
+**AFTER YOU DO ALL OF THIS DOWNLOAD CHROME DRIVER AND PUT IT IN THE PYTHON FILE DIRECTORY**
